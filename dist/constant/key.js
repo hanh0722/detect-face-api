@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.APP_ID_CLARIFAI = exports.USER_ID_CLARIFAI = exports.CLOUDINARY_SECRET_KEY = exports.CLOUD_NAME_CLOUDINARY = exports.CLOUDINARY_KEY = exports.CLARIFAI_API_KEY = exports.KEY_MULTER = void 0;
+exports.KEY_MULTER = 'upload_file';
+exports.CLARIFAI_API_KEY = 'CLARIFAI_API_KEY';
+exports.CLOUDINARY_KEY = 'API_KEY_CLOUD';
+exports.CLOUD_NAME_CLOUDINARY = 'CLOUD_NAME';
+exports.CLOUDINARY_SECRET_KEY = 'API_KEY_SECRET_CLOUD';
+exports.USER_ID_CLARIFAI = 'USER_ID_CLARIFAI';
+exports.APP_ID_CLARIFAI = 'APP_ID_CLARIFAI';

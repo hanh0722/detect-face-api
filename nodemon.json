@@ -1,0 +1,10 @@
+{
+  "env": {
+    "CLARIFAI_API_KEY": "0b051cdb86454824b528766d97f83127",
+    "CLOUD_NAME": "plenty-react-api",
+    "API_KEY_CLOUD": "539275864181413",
+    "API_KEY_SECRET_CLOUD": "FcInIZCmHK02vPQypmTB8Cdww8Y",
+    "USER_ID_CLARIFAI": "yuztnmju8rsp",
+    "APP_ID_CLARIFAI": "f954bf0d35ef47c599f092bd0988d11f"
+  }
+}

@@ -1,0 +1,8 @@
+export const KEY_MULTER = 'upload_file';
+export const CLARIFAI_API_KEY = 'CLARIFAI_API_KEY';
+
+export const CLOUDINARY_KEY = 'API_KEY_CLOUD';
+export const CLOUD_NAME_CLOUDINARY = 'CLOUD_NAME';
+export const CLOUDINARY_SECRET_KEY = 'API_KEY_SECRET_CLOUD';
+export const USER_ID_CLARIFAI = 'USER_ID_CLARIFAI';
+export const APP_ID_CLARIFAI = 'APP_ID_CLARIFAI';
